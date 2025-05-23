@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    max-width: auto;
+    padding: 200px 0px;
+    margin: 0px 50px;
+}
+
+.box-h3 {
+    margin: 0%;
+    font-size: 40px;
+    font-family: "Libre Caslon Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+.box-h1 {
+    margin: 0%;
+    font-size: 80px;
+    font-family: "Libre Caslon Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.box-button {
+    padding: 5px 9px;
+    font-size: 20px;
+    font-family: "Libre Caslon Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aquamarine;
+}
+
+.box-button:hover {
+    opacity: 30%;
+}
